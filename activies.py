@@ -1,3 +1,4 @@
+#SIMULADOR DE USUÁRIO E SENHA
 
 nome = input("Informe seu nome: " )
 senha = input("Informe sua senha: ")
