@@ -1,4 +1,4 @@
-#SIMULADOR DE USUÁRIO E SENHA
+#SIMULADOR DE USUÁRIO E SENHA realizado pelo aluno Jackson.
 
 nome = input("Informe seu nome: " )
 senha = input("Informe sua senha: ")
